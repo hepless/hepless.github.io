@@ -1,0 +1,8 @@
+Origin: repo nds11
+Label: repo nds11
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: repo nds11
